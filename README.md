@@ -14,7 +14,7 @@ MDAnalysis\
 MDTraj\
 OceanSDK (DWave)
 
-
-1.&nbsp;&nbsp;<a name="imapd"></a>[DOI:10.1073/pnas.1621481114](https://doi.org/10.1073/pnas.1621481114)\
-2.&nbsp;&nbsp;<a name="dmap"></a>[DOI:10.1016/j.acha.2006.04.006](https://doi.org/10.1016/j.acha.2006.04.006)\
-3.&nbsp;&nbsp;<a name="pca"></a>[DOI:10.1145/3447755](https://doi.org/10.1145/3447755)
+## References
+1.&nbsp;<a name="imapd"></a>[DOI:10.1073/pnas.1621481114](https://doi.org/10.1073/pnas.1621481114)\
+2.&nbsp;<a name="dmap"></a>[DOI:10.1016/j.acha.2006.04.006](https://doi.org/10.1016/j.acha.2006.04.006)\
+3.&nbsp;<a name="pca"></a>[DOI:10.1145/3447755](https://doi.org/10.1145/3447755)
